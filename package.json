@@ -18,7 +18,7 @@
     "ws": "8.17.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.24.7",
+    "@babel/core": "^7.29.6",
     "@babel/plugin-transform-object-assign": "^7.24.7",
     "@babel/preset-env": "^7.24.7",
     "@babel/register": "^7.24.6",
